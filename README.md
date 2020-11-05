@@ -1,6 +1,6 @@
 Requirements - We will need lex, Yacc and SPIM emulator( to test MIPS code).
 
-Here is a list of files to be developed and a short description of what happens in each files :-
+Here is a list of files we have developed and a short description of what happens in each files :-
 
 cGrammer : Grammer used for this assignment
 
